@@ -1,4 +1,4 @@
-module github.com/techschool/simplebank
+module github.com/moonyc/simplebank
 
 go 1.20
 
